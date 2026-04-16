@@ -1,0 +1,14 @@
+{
+  "name": "fantasy-calendar",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite build --watch"
+  },
+  "devDependencies": {
+    "@league-of-foundry-developers/foundry-vtt-types": "^12.331.5",
+    "typescript": "^5.9.3",
+    "vite": "^5.4.21"
+  }
+}

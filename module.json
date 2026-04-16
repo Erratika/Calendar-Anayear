@@ -1,0 +1,23 @@
+{
+  "id": "fantasy-calendar",
+  "title": "Fantasy Calendar",
+  "description": "Custom calendar system integrated with Foundry time",
+  "version": "1.0.0",
+  "authors": [{ "name": "You" }],
+  "esmodules": ["dist/main.js"],
+  "styles": ["styles/calendar.css"],
+
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system"
+      }
+    ]
+  }
+}
