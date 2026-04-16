@@ -1,5 +1,6 @@
 export const calendarAnayear = {
   id: "anayear-calendar",
+  label: "Calendar of Anayear",
 
   yearLength: 360,
 
